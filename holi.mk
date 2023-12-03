@@ -170,7 +170,9 @@ PRODUCT_PACKAGES += \
     FM2 \
     libqcomfm_jni \
     qcom.fmradio \
-    qcom.fmradio.xml
+    qcom.fmradio.xml \
+    vendor.qti.hardware.fm@1.0 \
+    vendor.qti.hardware.fm@1.0.vendor
 
 # GPS
 PRODUCT_PACKAGES += \
